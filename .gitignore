@@ -1,0 +1,7 @@
+
+# Python virtual environment
+urban-growth-vae/venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
